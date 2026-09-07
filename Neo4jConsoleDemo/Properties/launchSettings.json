@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Neo4jConsoleDemo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
